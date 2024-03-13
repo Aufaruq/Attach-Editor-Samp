@@ -1,5 +1,15 @@
 # Attach Editor samp
 helps you determine the coordinates of an object / attach gta samp.
+
+## Preview
+cursor edit pc only
+![1](https://github.com/Aufaruq/Attach-Editor-Samp/blob/main/Screenshot%20(6445).png)
+
+main menu list
+![2](https://github.com/Aufaruq/Attach-Editor-Samp/blob/main/Screenshot%20(6451).png)
+
+save in .txt file in scripfiles
+![3](https://github.com/Aufaruq/Attach-Editor-Samp/blob/main/Screenshot%20(6450).png)
 ## Features
 
 - to edit the coordinates of gta sa item objects
