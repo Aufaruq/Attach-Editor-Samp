@@ -7,19 +7,13 @@ helps you determine the coordinates of an object / attach gta samp.
 - makes it easier to find object coordinates
 
 ## Installation
-```sh
-1.Download the zip file from this repository
-```
-```sh
-2.then extract your downloaded file from this repo, it's up to you where you want to put it
-```
-```sh
-3.After extracting, just run the samp-server file on your PC
-```
+> 1.Download the zip file from this repository
 
-```sh
-4.then open your SAMP application then connect to 127.0.0.1:7777 then play
-```
+> 2.then extract your downloaded file from this repo, it's up to you where you want to put it
+
+> 3.After extracting, just run the samp-server file on your PC
+
+> 4.then open your SAMP application then connect to 127.0.0.1:7777 then play
 
 ## information
 This is my small project, if you are interested in helping develop it together, I am very happy to accept it
